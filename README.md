@@ -12,7 +12,7 @@
 <p align="center">
 
 - 🔭 I’m currently studying Computer Science Engineering 
--🌱 I’m currently learning Python,C++,AWS,React.js,Node.js, Data structure & Algorithm
+- 🌱 I’m currently learning Python,C++,AWS,React.js,Node.js, Data structure & Algorithm
 - 👯 I’m looking to collaborate on open source frontend web develepement projects and other projects
 - 📫 How to reach me **sinhaaleyaa@gmail.com**
 - ⚡ Fun fact **I am quirky ,silly and a rare edition.**
